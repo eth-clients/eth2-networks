@@ -9,7 +9,9 @@ Here is a short list of commands that can be used to connect to any of the testn
 git clone https://github.com/status-im/nim-beacon-chain
 cd nim-beacon-chain
 make                 # This invocation will bootstrap the build system with additional Makefiles
-make update deps     # This will build Nim and all other dependencies
-./connect-to-testnet testnet0
+make testnet0        # This will build Nimbus and all other dependencies
+                     # and connect you to testnet0
 ```
 
+Use `make testnet0` to rebuild and reconnect with an existing installation. 
+`./connect-to-testnet testnet0` will also reset your testnet data to pristine state.
