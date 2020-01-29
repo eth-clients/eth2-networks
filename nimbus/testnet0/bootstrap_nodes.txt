@@ -1,1 +1,1 @@
-/ip4/18.184.88.59/tcp/9000/p2p/16Uiu2HAkuoTxCqPHe5oVA5ySsH77cTnsVoywXv3j77Qkn2r7rmW3
+/ip4/18.197.188.110/tcp/9000/p2p/16Uiu2HAkuoTxCqPHe5oVA5ySsH77cTnsVoywXv3j77Qkn2r7rmW3
