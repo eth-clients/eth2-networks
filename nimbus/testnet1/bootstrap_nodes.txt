@@ -1,1 +1,1 @@
-/ip4/18.194.100.47/tcp/9100/p2p/16Uiu2HAm8UqxDU6hixp8bff5JcQJWwRCUosiT2Giey6nWvMpDBsH
+/ip4/35.156.135.133/tcp/9100/p2p/16Uiu2HAm8UqxDU6hixp8bff5JcQJWwRCUosiT2Giey6nWvMpDBsH
