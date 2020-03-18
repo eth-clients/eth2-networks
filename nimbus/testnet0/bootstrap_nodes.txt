@@ -1,1 +1,1 @@
-/ip4/35.156.135.133/tcp/9000/p2p/16Uiu2HAkuoTxCqPHe5oVA5ySsH77cTnsVoywXv3j77Qkn2r7rmW3
+enr:-Iu4QF2AA7-Q1P5-xTPS72BDxZufcttXJCt1wopWERMURzq0OZmAFdmNtU5NNBESMtP_8v3fhCuwZNOmtO8usqUVJcsBgmlkgnY0gmlwhCOch4WJc2VjcDI1NmsxoQI6kYvholEnL7G1xUeqs-g6XswBsorkof3efBqdsmZkkoN0Y3CCIyiDdWRwgiMo
