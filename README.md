@@ -24,5 +24,6 @@ To connect to any of the published testnets using a particular client, please se
 
 The following repositories contain client configurations for current and future multi-client testnets.
 
-- [Schlesi Testnet](https://github.com/goerli/schlesi/) (v0.11.1)
+- [Schlesi Testnet](https://github.com/goerli/schlesi/) (v0.11.2)
+- [Witti Testnet](https://github.com/goerli/witti/) (v0.11.3)
 
