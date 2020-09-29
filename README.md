@@ -25,9 +25,9 @@ To connect to any of the published testnets using a particular client, please se
 
 The following repositories contain client configurations for current and future multi-client testnets.
 
-- [Schlesi Testnet](https://github.com/goerli/schlesi/tree/master/.trash/schlesi/) (v0.11.2)
-- [Witti Testnet](https://github.com/goerli/witti/tree/master/witti) (v0.11.3)
-- [Altona Testnet](https://github.com/goerli/altona/tree/master/altona) (v0.12.1)
+- [Schlesi Testnet](https://github.com/goerli/medalla/tree/master/.trash/schlesi/) (v0.11.2)
+- [Witti Testnet](https://github.com/goerli/medalla/tree/master/witti) (v0.11.3)
+- [Altona Testnet](https://github.com/goerli/medalla/tree/master/altona) (v0.12.1)
 - [Medalla Testnet](https://github.com/goerli/medalla/blob/master/medalla) (v0.12.2)
 - [Spadina Testnet](https://github.com/goerli/medalla/blob/master/spadina) (v0.12.3)
 
