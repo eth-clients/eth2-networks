@@ -28,4 +28,14 @@ The following repositories contain client configurations for current and future 
 - [Schlesi Testnet](https://github.com/goerli/schlesi/tree/master/.trash/schlesi/) (v0.11.2)
 - [Witti Testnet](https://github.com/goerli/witti/tree/master/witti) (v0.11.3)
 - [Altona Testnet](https://github.com/goerli/altona/tree/master/altona) (v0.12.1)
-- [Medalla Testnet](https://github.com/goerli/medalla/) (v0.12.2)
+- [Medalla Testnet](https://github.com/goerli/medalla/blob/master/medalla) (v0.12.2)
+- [Spadina Testnet](https://github.com/goerli/medalla/blob/master/spadina) (v0.12.3)
+
+The multi-client interop scripts can be found at [eth2-clients/multinet](https://github.com/eth2-clients/multinet).
+
+### Public Attacknets 
+
+The following repositories contain public Eth2 attacknets with multiple tiers of bounties to incentivize breaking them.
+
+- [Single-client `beta-0` attacknets](https://github.com/ethereum/public-attacknets/tree/master/attacknets/beta-0)
+- [Multi-client `beta-1` attacknets](https://github.com/ethereum/public-attacknets/tree/master/attacknets/beta-1)
