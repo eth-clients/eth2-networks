@@ -30,8 +30,11 @@ The following repositories contain client configurations for current and future 
 - [Altona Testnet](https://github.com/goerli/medalla/tree/master/altona) (v0.12.1)
 - [Medalla Testnet](https://github.com/goerli/medalla/blob/master/medalla) (v0.12.2)
 - [Spadina Testnet](https://github.com/goerli/medalla/blob/master/spadina) (v0.12.3)
+- [Zinken Testnet](https://github.com/goerli/medalla/blob/master/zinken) (v0.12.3)
 
 The multi-client interop scripts can be found at [eth2-clients/multinet](https://github.com/eth2-clients/multinet).
+
+The differential beacon-chain fuzzing framework can be found at [sigp/beacon-fuzz](https://github.com/sigp/beacon-fuzz).
 
 ### Public Attacknets 
 
