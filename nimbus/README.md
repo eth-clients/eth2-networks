@@ -1,13 +1,13 @@
 # Nimbus
 
 Please see the main repository of the Nimbus beacon chain for detailed instructions for building and running Nimbus:
-https://github.com/status-im/nim-beacon-chain
+https://github.com/status-im/nimbus-eth2
 
 Here is a short list of commands that can be used to connect to any of the testnets published here:
 
 ```bash
-git clone https://github.com/status-im/nim-beacon-chain
-cd nim-beacon-chain
+git clone https://github.com/status-im/nimbus-eth2
+cd nimbus-eth2
 make                 # This invocation will bootstrap the build system with additional Makefiles
 make testnet0        # This will build Nimbus and all other dependencies
                      # and connect you to testnet0
