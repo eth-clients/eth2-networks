@@ -8,6 +8,7 @@ The folder structure and the contents of the files is described [here](https://g
 The following testnets were launched along with or after the public Ethereum 2.0 mainnet launch.
 
 - [Pyrmont Testnet](shared/pyrmont) (v1.0.0)
+- [Prater Testnet](shared/prater) (v1.0.1)
 
 ### Multi-Client Testnets (archive)
 
