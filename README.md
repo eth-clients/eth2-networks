@@ -1,7 +1,12 @@
-# ETH2 Testnets
-This repository stores metadata files for the actively running Eth2 testnets.
+# ETH2 Networks
+
+This repository stores metadata files for known [eth2 networks](https://github.com/ethereum/eth2.0-specs).
 
 The folder structure and the contents of the files is described [here](https://github.com/ethereum/eth2.0-pm/blob/f1faca34b712b21602437b7627192cb9ba64edff/interop/deposit_contract_testnets/README.md).
+
+### Mainnet
+
+- [Mainnet](shared/mainnet) - The mainnet of the project formerly known as eth2
 
 ### Post-Launch Testnets
 
@@ -49,3 +54,4 @@ To connect to any of the published testnets using a particular client, please se
     - [Sapphire](prysm/Sapphire(v0.9.4)/) (v0.9.4)
     - [Topaz](prysm/Topaz(v0.11.1)/) (v0.11.1)
     - [Onyx](prysm/Onyx(v0.12.1)/) (v0.12.1)
+
