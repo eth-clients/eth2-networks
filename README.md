@@ -54,4 +54,6 @@ To connect to any of the published testnets using a particular client, please se
     - [Sapphire](prysm/Sapphire(v0.9.4)/) (v0.9.4)
     - [Topaz](prysm/Topaz(v0.11.1)/) (v0.11.1)
     - [Onyx](prysm/Onyx(v0.12.1)/) (v0.12.1)
+- [Teku](teku/)
+    - [Coorparoo](teku/coorparoo/) (Altair)
 
