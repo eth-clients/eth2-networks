@@ -10,7 +10,7 @@ CONFIG_NAME: "altair-devnet-1"
 MIN_GENESIS_ACTIVE_VALIDATOR_COUNT: 10000
 # July 14, 2021, 12pm UTC
 MIN_GENESIS_TIME: 1626264000
-# Location for the altair star is 19h 50m 46.99855
+# Location for the altair star is 19h 50m 46.99855 + 1, since its the second devnet
 GENESIS_FORK_VERSION: 0x19504700
 # 86400 seconds (1 day)
 GENESIS_DELAY: 86400
@@ -23,7 +23,8 @@ GENESIS_DELAY: 86400
 #  - Temporarily set to max uint64 value: 2**64 - 1
 
 # Altair
-ALTAIR_FORK_VERSION: 0x01000000
+# increasing altair fork version by 1 to differentiate from altair-devnet-0
+ALTAIR_FORK_VERSION: 0x01000001
 ALTAIR_FORK_EPOCH: 10
 # Merge
 MERGE_FORK_VERSION: 0x02000000
