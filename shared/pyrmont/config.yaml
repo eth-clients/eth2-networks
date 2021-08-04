@@ -65,7 +65,7 @@ CHURN_LIMIT_QUOTIENT: 65536
 
 # Deposit contract
 # ---------------------------------------------------------------
-# Ethereum PoW Mainnet
+# Ethereum Goerli testnet
 DEPOSIT_CHAIN_ID: 5
 DEPOSIT_NETWORK_ID: 5
 # Pyrmont test deposit contract on Goerli (2nd edition, 0x00002009 fork version)
