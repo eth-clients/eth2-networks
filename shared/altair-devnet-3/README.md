@@ -3,8 +3,8 @@
 `altair-devnet-3` is a short-lived devnet that activates the Altair fork at epoch 10.
 
 ```yaml
-genesis_time: 1628647200
-genesis_state_root: 0x5ee2feedc24b3ba4fb61cba9c3c4449bb99c0a1cedaac7dc4ff304d3ff4c5055
+genesis_time: 1628690400
+genesis_state_root: 0x57c2554421006a010236d6049179c0227fa0a378b0dcfe00186dfe88b3a9ed23
 genesis_latest_block_header:
   slot: 0
   proposer_index: 0
@@ -12,7 +12,7 @@ genesis_latest_block_header:
   state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
   body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
 genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
-genesis_block_root_updated_state_root: 0x731724be34c9eeabf0e3ff97bf45a954119fd396ca99b145700c9b409c538800
+genesis_block_root_updated_state_root: 0xbf514360546434b83d0d2e7a40004501c7861d740c14353bb9c9259c1390e29a
 genesis_validators_root: 0xad8224a33842e3eb7b9929906870dc12652af09bbdd3e99c28c12a02750faeff
 genesis_validators_count: 50000
 genesis_active_validators_count: 50000
