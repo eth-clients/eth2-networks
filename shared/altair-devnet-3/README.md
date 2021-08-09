@@ -1,0 +1,29 @@
+# Altair-devnet-3
+
+`altair-devnet-3` is a short-lived devnet that activates the Altair fork at epoch 10.
+
+```yaml
+genesis_time: 1628647200
+genesis_state_root: 0x5ee2feedc24b3ba4fb61cba9c3c4449bb99c0a1cedaac7dc4ff304d3ff4c5055
+genesis_latest_block_header:
+  slot: 0
+  proposer_index: 0
+  parent_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  state_root: 0x0000000000000000000000000000000000000000000000000000000000000000
+  body_root: 0xccb62460692be0ec813b56be97f68a82cf57abc102e27bf49ebf4190ff22eedd
+genesis_block_root_no_state_root: 0xeade62f0457b2fdf48e7d3fc4b60736688286be7c7a3ac4c9a16a5e0600bd9e4
+genesis_block_root_updated_state_root: 0x731724be34c9eeabf0e3ff97bf45a954119fd396ca99b145700c9b409c538800
+genesis_validators_root: 0xad8224a33842e3eb7b9929906870dc12652af09bbdd3e99c28c12a02750faeff
+genesis_validators_count: 50000
+genesis_active_validators_count: 50000
+genesis_total_active_stake_gwei: 1600000000000000
+genesis_total_balance_gwei: 1600000000000000
+eth1_data:
+  deposit_root: 0xd70a234731285c6804c2a4f56711ddb8c82c99740f207854891028af34e27e5e
+  deposit_count: 0
+  block_hash: 0x18343bb17c9fd516a4cf137a16728d9d5fd3ba94be107da3cb09facbd8f3e230
+deposit index: 0
+genesis_fork_version: 0x19504702
+genesis_fork_digest: 0x768425ac
+pre_genesis_fork_digest: 0x4636df27
+```
