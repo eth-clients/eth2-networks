@@ -9,7 +9,7 @@ CONFIG_NAME: "altair-devnet-3"
 # ---------------------------------------------------------------
 MIN_GENESIS_ACTIVE_VALIDATOR_COUNT: 50000
 # Aug 10th, 2021, 2pm UTC
-MIN_GENESIS_TIME: 1628560800
+MIN_GENESIS_TIME: 1628604000
 # Location for the altair star is 19h 50m 46.99855 + 3, since its the fourth devnet
 GENESIS_FORK_VERSION: 0x19504702
 # 86400 seconds (1 day)
