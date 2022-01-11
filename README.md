@@ -27,7 +27,7 @@ The following repositories contain client configurations for multi-client testne
 - [Zinken Testnet](https://github.com/goerli/medalla/blob/master/zinken) (v0.12.3)
 - [Toledo Testnet](shared/toledo/) (v1.0.0)
 
-The multi-client interop scripts can be found at [eth2-clients/multinet](https://github.com/eth2-clients/multinet).
+The multi-client interop scripts can be found at [eth-clients/multinet](https://github.com/eth-clients/multinet).
 
 The differential beacon-chain fuzzing framework can be found at [sigp/beacon-fuzz](https://github.com/sigp/beacon-fuzz).
 
