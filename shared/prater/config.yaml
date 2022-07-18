@@ -5,7 +5,7 @@ PRESET_BASE: 'mainnet'
 
 # Transition
 # ---------------------------------------------------------------
-# TBD, 2**256-2**10 is a placeholder
+# Expected August 10, 2022
 TERMINAL_TOTAL_DIFFICULTY: 10790000
 # By default, don't use these params
 TERMINAL_BLOCK_HASH: 0x0000000000000000000000000000000000000000000000000000000000000000
