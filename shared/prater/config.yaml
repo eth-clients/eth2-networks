@@ -3,6 +3,8 @@
 # Extends the mainnet preset
 PRESET_BASE: 'mainnet'
 
+CONFIG_NAME: 'prater'
+
 # Transition
 # ---------------------------------------------------------------
 # Expected August 10, 2022
