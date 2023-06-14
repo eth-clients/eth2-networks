@@ -19,11 +19,6 @@ HYSTERESIS_DOWNWARD_MULTIPLIER: 1
 HYSTERESIS_UPWARD_MULTIPLIER: 5
 
 
-# Fork Choice
-# ---------------------------------------------------------------
-SAFE_SLOTS_TO_UPDATE_JUSTIFIED: 8
-
-
 # Validator
 # ---------------------------------------------------------------
 ETH1_FOLLOW_DISTANCE: 2048

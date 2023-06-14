@@ -29,12 +29,6 @@ HYSTERESIS_DOWNWARD_MULTIPLIER: 1
 HYSTERESIS_UPWARD_MULTIPLIER: 5
 
 
-# Fork Choice
-# ---------------------------------------------------------------
-# 2**3 (= 8)
-SAFE_SLOTS_TO_UPDATE_JUSTIFIED: 8
-
-
 # Validator
 # ---------------------------------------------------------------
 # 2**10 (= 1,024)
@@ -221,4 +215,3 @@ MAX_CUSTODY_SLASHINGS: 1
 EARLY_DERIVED_SECRET_REVEAL_SLOT_REWARD_MULTIPLE: 2
 # 2**8 (= 256)
 MINOR_REWARD_QUOTIENT: 256
-
