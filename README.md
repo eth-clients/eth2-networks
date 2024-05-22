@@ -1,5 +1,7 @@
 # ETH2 Networks
 
+⚠️ This repository is no longer maintained - for the latest mainnet metadata, see https://github.com/eth-clients/mainnet
+
 This repository stores metadata files for known [eth2 networks](https://github.com/ethereum/eth2.0-specs).
 
 The folder structure and the contents of the files is described [here](https://github.com/ethereum/eth2.0-pm/blob/f1faca34b712b21602437b7627192cb9ba64edff/interop/deposit_contract_testnets/README.md).
